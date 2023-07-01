@@ -482,3 +482,24 @@ nuth#nút
 panth#ban
 pem#bem 
 nêang#nê ang
+goal#gôn
+golf#gôn
+tennis#ten nít
+sandwich#san quít
+beer#bia
+coffee#cà phê
+cafe#cà phê
+scandal#xì căng đan
+pop#pốp
+rock#rốc
+jazz#ja
+film#phim
+sofa#sô pha
+soda#sô đa
+salad#sa lát
+bar#ba
+jeans#giyên
+canteen#căn tin
+ballet#ba lê
+pizza#pi gia
+menu#thực đơn
